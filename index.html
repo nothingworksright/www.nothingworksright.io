@@ -1,52 +1,121 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-        <title>nothingworksright.com</title>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-        <!-- Bootstrap -->
-        <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+    <title>Nothing Works Right (sometimes)</title>
 
-        <!-- Optional theme -->
-        <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/darkly/bootstrap.min.css" rel="stylesheet" integrity="sha384-S7YMK1xjUjSpEnF4P8hPUcgjXYLZKK3fQW1j5ObLSl787II9p8RO9XUGehRmKsxd" crossorigin="anonymous">
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
 
-        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-        <!--[if lt IE 9]>
+    <!-- Optional theme -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/darkly/bootstrap.min.css" rel="stylesheet" integrity="sha384-S7YMK1xjUjSpEnF4P8hPUcgjXYLZKK3fQW1j5ObLSl787II9p8RO9XUGehRmKsxd" crossorigin="anonymous">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
-    </head>
-    <body>
-        <br />
-        <div class="container">
-            <nav class="navbar navbar-dark" style="background-color: #333;">
-                <a class="navbar-brand float-xs-right" href="#">nothing works right</a>
-            </nav>
-        </div>
-        <br />
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-5">
-                    <div class="card card-inverse" style="background-color: #333; border-color: #333;">
-                        <div class="card-block">
-                            <h4 class="card-title">GitHub</h4>
-                            <p class="card-text">Check out our code repositories on GitHub.</p>
-                            <a href="https://github.com/nothingworksright" class="btn btn-primary">Our Repos</a>
-                        </div>
+
+    <style>
+        @media (max-width: 400px) {
+            /* http://stackoverflow.com/a/21365652 */
+            .col-xxs {
+                display: block;
+                float: none;
+                width: 100%
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <br />
+
+    <div class="container">
+        <nav class="navbar navbar-dark" style="background-color: #333;">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <div class="navbar-brand">
+                        Nothing Works Right (sometimes)
                     </div>
                 </div>
+                <img class="navbar-right hidden-sm-down" src="https://avatars1.githubusercontent.com/u/22140617?v=3&s=50" alt="Nothing Works Right logo" />
             </div>
+        </nav>
+    </div>
+
+    <br />
+    <div class="container">
+        <div class="row">
+
+            <!-- GITHUB CARD -->
+            <div class="col-xxs col-xs-6 col-sm-4 col-md-3">
+                <div class="card card-inverse text-center" style="background-color: #333; border-color: #333;">
+                    <a href="https://github.com/nothingworksright" alt="Nothing Works Right on GitHub">
+                        <img class="card-img-top" src="Octocat.jpg" alt="GitHub Octocat" width="100%" />
+                    </a>
+                    <div class="card-block">
+                        <h3 class="card-title">GitHub</h3>
+                        <p class="card-text">
+                            We use and recommend GitHub for online project hosting using Git. Our projects are open-source and available on GitHub for your suggestions and contributions.
+                        </p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">
+                            <a href="https://github.com/nothingworksright" alt="Nothing Works Right on GitHub">
+                                Nothing Works Right on GitHub
+                            </a>
+                        </li>
+                        <li class="list-group-item">
+                            <a href="https://github.com/open-source" alt="GitHub Open Source">
+                                GitHub Open Source
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- GITTER CARD -->
+            <div class="col-xxs col-xs-6 col-sm-4 col-md-3">
+                <div class="card card-inverse text-center" style="background-color: #333; border-color: #333;">
+                    <a href="https://gitter.im/nothingworksright/Lobby" alt="Nothing Works Right on Gitter">
+                        <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/5990364?v=3&s=500" alt="Gitter" width="100%" />
+                    </a>
+                    <div class="card-block">
+                        <h3 class="card-title">Gitter</h3>
+                        <p class="card-text">
+                            We use and recommend Gitter for instant messaging and chat rooms for Git repositories on GitHub. We have setup a Lobby chat room for general purposes, and individual chat rooms for some of our code repositories.
+                        </p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">
+                            <a href="https://gitter.im/nothingworksright/Lobby">
+                                Lobby - 
+                                <img src="https://badges.gitter.im/gitterHQ/gitter.png" alt="Gitter chat" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
         </div>
-        <!-- Bootstrap -->
-        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-        <!-- Latest compiled and minified JavaScript -->
-        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
-    </body>
+    </div>
+    </div>
+
+    <!-- Bootstrap -->
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+</body>
+
 </html>
