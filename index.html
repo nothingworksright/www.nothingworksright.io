@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,16 +24,8 @@
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-    <style>
-        @media (max-width: 400px) {
-            /* http://stackoverflow.com/a/21365652 */
-            .col-xxs {
-                display: block;
-                float: none;
-                width: 100%
-            }
-        }
-    </style>
+    <!-- Additional style for this html page -->
+    <link rel="stylesheet" href="assets/common/css/style.css">
 
 </head>
 
@@ -40,8 +33,8 @@
 
     <br />
 
-    <div class="container">
-        <nav class="navbar navbar-dark" style="background-color: #333;">
+    <div class="container-fluid">
+        <nav class="navbar navbar-dark">
             <div class="container-fluid">
                 <div class="navbar-header">
                     <div class="navbar-brand">
@@ -54,14 +47,40 @@
     </div>
 
     <br />
-    <div class="container">
+
+    <div class="container-fluid">
         <div class="row">
 
+            <!-- NODE CARD -->
+            <div class="col-xxs col-xs-6 col-sm-4 col-md-3 col-lg-2 margin-b-25">
+                <div class="card card-inverse text-center equalh">
+                    <a href="https://nodejs.org" alt="Node.js">
+                        <img class="card-img-top card-img-dark" src="assets/common/img/node.svg" alt="GitHub Octocat" width="100%" />
+                    </a>
+                    <div class="card-block">
+                        <h3 class="card-title">Node.js</h3>
+                        <p class="card-text">
+                            Node.js is an asynchronous event driven JavaScript runtime. We use and recommend Node.js to build scalable network applications.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <a href="https://nodejs.org" alt="Node.js">Node.js</a>
+                            </li>
+                            <li class="list-group-item">
+                                <a href="https://github.com/nodejs" alt="Node.js on GitHub">Node.js on GitHub</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
             <!-- GITHUB CARD -->
-            <div class="col-xxs col-xs-6 col-sm-4 col-md-3">
-                <div class="card card-inverse text-center" style="background-color: #333; border-color: #333;">
+            <div class="col-xxs col-xs-6 col-sm-4 col-md-3 col-lg-2 margin-b-25">
+                <div class="card card-inverse text-center equalh">
                     <a href="https://github.com/nothingworksright" alt="Nothing Works Right on GitHub">
-                        <img class="card-img-top" src="Octocat.jpg" alt="GitHub Octocat" width="100%" />
+                        <img class="card-img-top card-img-light" src="assets/common/img/github.jpg" alt="GitHub Octocat" width="100%" />
                     </a>
                     <div class="card-block">
                         <h3 class="card-title">GitHub</h3>
@@ -69,26 +88,81 @@
                             We use and recommend GitHub for online project hosting using Git. Our projects are open-source and available on GitHub for your suggestions and contributions.
                         </p>
                     </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item">
-                            <a href="https://github.com/nothingworksright" alt="Nothing Works Right on GitHub">
-                                Nothing Works Right on GitHub
-                            </a>
-                        </li>
-                        <li class="list-group-item">
-                            <a href="https://github.com/open-source" alt="GitHub Open Source">
+                    <div class="card-footer">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <a href="https://github.com/open-source" alt="GitHub Open Source">
                                 GitHub Open Source
                             </a>
-                        </li>
-                    </ul>
+                            </li>
+                            <li class="list-group-item">
+                                <a href="https://github.com/nothingworksright" alt="Nothing Works Right on GitHub">
+                                Nothing Works Right on GitHub
+                            </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- TRAVIS CARD -->
+            <div class="col-xxs col-xs-6 col-sm-4 col-md-3 col-lg-2 margin-b-25">
+                <div class="card card-inverse text-center equalh">
+                    <a href="https://travis-ci.org/" alt="Nothing Works Right on GitHub">
+                        <img class="card-img-top card-img-dark" src="assets/common/img/travisci.png" alt="GitHub Octocat" width="100%" />
+                    </a>
+                    <div class="card-block">
+                        <h3 class="card-title">Travis CI</h3>
+                        <p class="card-text">
+                            We use and recommend Travis CI for testing and deploying GitHub projects. Testing for open-source projects is 10000% free.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <a href="https://travis-ci.org/" alt="Travis CI">
+                                Travis CI
+                            </a>
+                            </li>
+                            <li class="list-group-item">
+                                <a href="https://travis-ci.org/nothingworksright" alt="Nothing Works Right on Travis CI">
+                                Nothing Works Right on Travis CI
+                            </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- HEROKU CARD -->
+            <div class="col-xxs col-xs-6 col-sm-4 col-md-3 col-lg-2 margin-b-25">
+                <div class="card card-inverse text-center equalh">
+                    <a href="https://www.heroku.com/" alt="Heroku">
+                        <img class="card-img-top card-img-light" src="assets/common/img/heroku.png" alt="Heroku" width="100%" />
+                    </a>
+                    <div class="card-block">
+                        <h3 class="card-title">Heroku</h3>
+                        <p class="card-text">
+                            Heroku is a cloud platform for deploying and running modern apps. We use and recommend Heroku to run apps in dynos — smart containers on a reliable, fully managed runtime environment.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <a href="https://www.heroku.com/" alt="Heroku">
+                                Heroku
+                            </a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
 
             <!-- GITTER CARD -->
-            <div class="col-xxs col-xs-6 col-sm-4 col-md-3">
-                <div class="card card-inverse text-center" style="background-color: #333; border-color: #333;">
+            <div class="col-xxs col-xs-6 col-sm-4 col-md-3 col-lg-2 margin-b-25">
+                <div class="card card-inverse text-center equalh">
                     <a href="https://gitter.im/nothingworksright/Lobby" alt="Nothing Works Right on Gitter">
-                        <img class="card-img-top" src="https://avatars0.githubusercontent.com/u/5990364?v=3&s=500" alt="Gitter" width="100%" />
+                        <img class="card-img-top card-img-light" src="https://avatars0.githubusercontent.com/u/5990364?v=3&s=500" alt="Gitter" width="100%" />
                     </a>
                     <div class="card-block">
                         <h3 class="card-title">Gitter</h3>
@@ -96,26 +170,36 @@
                             We use and recommend Gitter for instant messaging and chat rooms for Git repositories on GitHub. We have setup a Lobby chat room for general purposes, and individual chat rooms for some of our code repositories.
                         </p>
                     </div>
-                    <ul class="list-group list-group-flush">
-                        <li class="list-group-item">
-                            <a href="https://gitter.im/nothingworksright/Lobby">
+                    <div class="card-footer">
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <a href="https://gitter.im/nothingworksright/Lobby">
                                 Lobby - 
                                 <img src="https://badges.gitter.im/gitterHQ/gitter.png" alt="Gitter chat" />
                             </a>
-                        </li>
-                    </ul>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
 
+
         </div>
-    </div>
     </div>
 
     <!-- Bootstrap -->
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.js"></script>
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+
+    <!-- Match Height https://github.com/liabru/jquery-match-height -->
+    <!-- Used to make all cards equal height -->
+    <script src="assets/lib/jquery/js/jquery.matchHeight.js"></script>
+
+    <!-- Additional script for this html page -->
+    <script src="assets/common/js/index.js"></script>
+
 </body>
 
 </html>
