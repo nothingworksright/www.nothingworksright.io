@@ -9,7 +9,8 @@
 
 .card {
     background-color: #333;
-    border-color: #333;
+    border-width: 1px;
+    border-color: #0b7cbd;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -36,6 +37,13 @@
     border-color: #fff;
 }
 
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #0b7cbd;
+}
+
 .list-group {
     margin: 0px;
     padding: 0px;
@@ -47,4 +55,6 @@
 
 .navbar {
     background-color: #333;
+    border-width: 1px;
+    border-color: #0b7cbd;
 }
