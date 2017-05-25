@@ -1,12 +1,24 @@
 # Nothing Works Right  
 
-Do not enter.  
+I am [@jmg1138](https://github.com/jmg1138). The [@nothingworksright](https://github.com/nothingworksright) organization is where I offer my FLOSS (Free-Libre Open Source Software).  
+
+___
+
+## Projects  
+
+Here are various projects that I have been working on.  
+
+[unblinkingBot](https://www.unblinkingBot.com) - Another Slack bot, written in Nodejs.  
+[Grocereport](http://www.Grocereport.com) - Quantified groceries, written as a native Android app and a Nodejs based API Server.  
+[Lila of the Day](http://www.LilaOfTheDay.com) - The outcome of creative play, written as a native Android app.  
+[fragmentBoss](https://github.com/nothingworksright/fragmentBoss/wiki) - A library module for Android app development.  
+[tmpNote](http://tmpnote.com/) - Another text editor, written in Python.  
 
 ___
 
 ## Recommended Tools and Services  
 
-Here are various tools and services that we can recommend.  
+Here are various tools and services that I can recommend.  
 
 #### GitHub  
 
