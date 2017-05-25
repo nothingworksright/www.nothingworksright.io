@@ -24,6 +24,7 @@ Here are various tools and services that I can recommend.
 
 - [GitHub.com](https://github.com/)  
 - [@nothingworksright on GitHub](https://github.com/nothingworksright)  
+- [csswizardry git tips](https://github.com/csswizardry/csswizardry.github.com/issues/66)  
 
 GitHub provides online project hosting using [Git](https://github.com/git). The nothingworksright code repositories are [open-source](https://github.com/open-source) and available on GitHub. This website is hosted on GitHub using [GitHub Pages](https://pages.github.com/).  
 
