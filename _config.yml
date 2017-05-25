@@ -1,2 +1,7 @@
-theme: jekyll-theme-minimal
-exclude: ["CNAME", "README.md"]
+theme:
+  - jekyll-theme-minimal
+exclude:
+  - CNAME
+  - README
+  - README.md
+  - README.markdown
