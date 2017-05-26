@@ -8,30 +8,25 @@ ___
 
 Here are some of the projects that I have been working on.  
 
-### unblinkingBot  
+- ### unblinkingBot  
+  - [unblinkingBot website](https://www.unblinkingBot.com)  
+  - Another Slack bot, written in Nodejs.  
 
-- [unblinkingBot website](https://www.unblinkingBot.com)  
-- Another Slack bot, written in Nodejs.  
+- ### Grocereport  
+  - [Grocereport website](http://www.Grocereport.com)  
+  - Quantified groceries, written as a native Android app and a Nodejs based API Server.  
 
-### Grocereport  
+- ### Lila of the Day  
+  - [Lila of the Day website](http://www.LilaOfTheDay.com)  
+  - The outcome of creative play, written as a native Android app.  
 
-- [Grocereport website](http://www.Grocereport.com)  
-- Quantified groceries, written as a native Android app and a Nodejs based API Server.  
+- ### fragmentBoss  
+  - [fragmentBoss wiki](https://github.com/nothingworksright/fragmentBoss/wiki)  
+  - A library module for Android app development.  
 
-### Lila of the Day  
-
-- [Lila of the Day website](http://www.LilaOfTheDay.com)  
-- The outcome of creative play, written as a native Android app.  
-
-### fragmentBoss  
-
-- [fragmentBoss wiki](https://github.com/nothingworksright/fragmentBoss/wiki)  
-- A library module for Android app development.  
-
-### tmpNote  
-
-- [tmpNote website](http://tmpnote.com/)  
-- Another text editor, written in Python.  
+- ### tmpNote  
+  - [tmpNote website](http://tmpnote.com/)  
+  - Another text editor, written in Python.  
 
 ___
 
