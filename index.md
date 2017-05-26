@@ -10,7 +10,7 @@ Here are some of the projects that I have been working on.
 
 ### The unblinkingBot  
 
-[![unblinkingBot logo](img/unblinkingbot_50x50.png)](https://www.unblinkingBot.com) &nbsp; The [unblinkingBot](https://www.unblinkingBot.com) is a home surveillance system assistant.  
+[![unblinkingBot logo](img/unblinkingbot_50x50.png)](http://www.unblinkingBot.com) &nbsp; The [unblinkingBot](http://www.unblinkingBot.com) is a home surveillance system assistant.  
 
 ### Grocereport  
 
