@@ -9,10 +9,8 @@ ___
 Here are some of the projects that I have been working on.  
 
 ### The unblinkingBot  
----
 ![unblinkingBot logo](img/unblinkingbot_50x50.png)  
 The [unblinkingBot](https://www.unblinkingBot.com) is a home surveillance system assistant.  
----
 
 ### Grocereport  
 ![Grocereport logo](img/grocereport_50x50.png)  
