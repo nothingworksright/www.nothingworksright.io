@@ -8,7 +8,8 @@ ___
 
 Here are some of the projects that I have been working on.  
 
-- ### unblinkingBot  ![unblinkingBot logo](img/unblinkingbot_50x50.png)  
+![unblinkingBot logo](img/unblinkingbot_50x50.png)  
+### unblinkingBot  
   - [unblinkingBot website](https://www.unblinkingBot.com)
   - Another Slack bot, written in Nodejs.
 
