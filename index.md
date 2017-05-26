@@ -15,6 +15,7 @@ Here are some of the projects that I have been working on.
 [![Grocereport logo](img/grocereport_50x50.png)](http://www.Grocereport.com) &nbsp; [Grocereport](http://www.Grocereport.com) is a service for quantified groceries.  
 
 ### Lila of the Day  
+[![Lila of the Day logo](img/lilaoftheday_50x50.png)](http://www.LilaOfTheDay.com)
 [Lila of the Day](http://www.LilaOfTheDay.com) is a reminder to value creative play, the outcome of which is all reality.  
 
 ### fragmentBoss  
