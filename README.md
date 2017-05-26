@@ -1,6 +1,6 @@
 # Nothing Works Right, Website  
 
-This is the [GitHub Pages](https://pages.github.com/) source code repository for [www.NothingWorksRight.com](http://www.NothingWorksRight.com/)  
+This is the [GitHub Pages](https://pages.github.com/) source code repository for [www.NothingWorksRight.com](http://www.NothingWorksRight.com/).  
 
 ## Show your support  
 
