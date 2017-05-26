@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-layout: null
 markdown: kramdown
 kramdown:
   input: GFM
