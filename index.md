@@ -12,9 +12,11 @@ Here are some of the projects that I have been working on.
 ![unblinkingBot logo](img/unblinkingbot_50x50.png)  
 The [unblinkingBot](https://www.unblinkingBot.com) is a home surveillance system assistant.  
 
+
 ### Grocereport  
 ![Grocereport logo](img/grocereport_50x50.png)  
 [Grocereport](http://www.Grocereport.com) is a service for quantified groceries.  
+
 
 ### Lila of the Day  
 [Lila of the Day](http://www.LilaOfTheDay.com) is a reminder to value creative play, the outcome of which is all reality.  
