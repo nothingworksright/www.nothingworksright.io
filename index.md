@@ -8,26 +8,21 @@ ___
 
 Here are some of the projects that I have been working on.  
 
-### unblinkingBot  
-![unblinkingBot logo](img/unblinkingbot_50x50.png)
-- [unblinkingBot website](https://www.unblinkingBot.com)
-- Another Slack bot, written in Nodejs.
+### The unblinkingBot  
+![unblinkingBot logo](img/unblinkingbot_50x50.png)  
+The [unblinkingBot](https://www.unblinkingBot.com) is a home surveillance system assistant.  
 
 ### Grocereport  
-- [Grocereport website](http://www.Grocereport.com)  
-- Quantified groceries, written as a native Android app and a Nodejs based API Server.  
+[Grocereport](http://www.Grocereport.com) is a service for quantified groceries.  
 
 ### Lila of the Day  
-- [Lila of the Day website](http://www.LilaOfTheDay.com)  
-- The outcome of creative play, written as a native Android app.  
+[Lila of the Day](http://www.LilaOfTheDay.com) is a reminder to value creative play, the outcome of which is all reality.  
 
 ### fragmentBoss  
-- [fragmentBoss wiki](https://github.com/nothingworksright/fragmentBoss/wiki)  
-- A library module for Android app development.  
+[fragmentBoss](https://github.com/nothingworksright/fragmentBoss/wiki) is an [Android library module](https://developer.android.com/studio/projects/android-library.html) to increase [Fragment](https://developer.android.com/guide/components/fragments.html) versatility.  
 
 ### tmpNote  
-- [tmpNote website](http://tmpnote.com/)  
-- Another text editor, written in Python.  
+[tmpNote](http://tmpnote.com/) is graphical text editor.
 
 ___
 
@@ -35,13 +30,13 @@ ___
 
 Here are various tools and services that I can recommend.  
 
+### Git  
+
+[Git](https://git-scm.com/) is a distributed revision control system. Check out the [csswizardry git tips](https://github.com/csswizardry/csswizardry.github.com/issues/66) for some great ideas.  
+
 ### GitHub  
 
-- [GitHub.com](https://github.com/)  
-- [@nothingworksright on GitHub](https://github.com/nothingworksright)  
-- [csswizardry git tips](https://github.com/csswizardry/csswizardry.github.com/issues/66)  
-
-GitHub provides online project hosting using [Git](https://github.com/git). The nothingworksright code repositories are [open-source](https://github.com/open-source) and available on GitHub. This website is hosted on GitHub using [GitHub Pages](https://pages.github.com/).  
+[GitHub.com](https://github.com/) provides online project hosting using [Git](https://git-scm.com/). The [@nothingworksright](https://github.com/nothingworksright) code repositories are [open-source](https://github.com/open-source) and available on GitHub. This website is hosted on GitHub using [GitHub Pages](https://pages.github.com/).  
 
 ___
 
