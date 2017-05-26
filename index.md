@@ -9,12 +9,10 @@ ___
 Here are some of the projects that I have been working on.  
 
 ### The unblinkingBot  
-[![unblinkingBot logo](img/unblinkingbot_50x50.png)](https://www.unblinkingBot.com)
-The [unblinkingBot](https://www.unblinkingBot.com) is a home surveillance system assistant.  
+[![unblinkingBot logo](img/unblinkingbot_50x50.png)](https://www.unblinkingBot.com) &nbsp; The [unblinkingBot](https://www.unblinkingBot.com) is a home surveillance system assistant.  
 
 ### Grocereport  
-[![Grocereport logo](img/grocereport_50x50.png)](http://www.Grocereport.com)
-[Grocereport](http://www.Grocereport.com) is a service for quantified groceries.  
+[![Grocereport logo](img/grocereport_50x50.png)](http://www.Grocereport.com) &nbsp; [Grocereport](http://www.Grocereport.com) is a service for quantified groceries.  
 
 ### Lila of the Day  
 [Lila of the Day](http://www.LilaOfTheDay.com) is a reminder to value creative play, the outcome of which is all reality.  
