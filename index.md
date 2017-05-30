@@ -44,5 +44,4 @@ Here are various tools and services that I can recommend.
 
 ___
 
-&copy; 2017 __nothingworksright__  
-[Theme](https://github.com/orderedlist/minimal) by [orderedlist](https://github.com/orderedlist)  
+&copy; 2017 [__nothingworksright__](https://github.com/nothingworksright)  
