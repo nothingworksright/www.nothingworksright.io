@@ -10,8 +10,8 @@ Hosting of this website is provided by [GitHub Pages](https://pages.github.com/)
 
 ## Show your support  
 
-Support this project by [making a pledge via Patreon](https://www.Patreon.com/jmg1138).  
+Support these open source projects and motivate nothingworksright to continue development. Using [Beerpay.io](https://beerpay.io/nothingworksright) you can support a project, and make a wish for a new feature or issue fix.  
 
-## Badges  
+[Click here to support a project](https://beerpay.io/nothingworksright).  
 
-[![Code Climate](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io/badges/gpa.svg)](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io) [![Issue Count](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io/badges/issue_count.svg)](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io)  
+[![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/badge.svg?style=beer-square)](https://beerpay.io/nothingworksright/nothingworksright.github.io)  [![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/make-wish.svg?style=flat-square)](https://beerpay.io/nothingworksright/nothingworksright.github.io?focus=wish)  
