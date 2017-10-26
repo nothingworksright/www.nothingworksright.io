@@ -1,4 +1,4 @@
-# Nothing Works Right, Website  
+# nothingworksright, the website  
 
 This is the source code repository for [nothingworksright.com](http://www.nothingworksright.com/).  
 
