@@ -1,47 +1,45 @@
-# Nothing Works Right  
+# ⛔️ nothingworksright  
 
-I am GitHub user [@jmg1138](https://github.com/jmg1138). The GitHub organization [@nothingworksright](https://github.com/nothingworksright) is where I offer my [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html) (Free-Libre Open Source Software) code repositories.  
+of course  
 
+__nothingworksright__ is a software development organization that offers [FLOSS (Free-Libre Open Source Software) on __GitHub__](https://github.com/nothingworksright).  
 ___
 
 ## Projects  
 
-Here are some of the projects that I have been working on.  
+Check out these projects.  
 
-### The unblinkingBot  
+### ಠ_ಠ unblinkingBot  
 
-[![unblinkingBot logo](img/unblinkingbot_50x50.png)](http://www.unblinkingBot.com) &nbsp; The [unblinkingBot](http://www.unblinkingBot.com) is a home surveillance system assistant.  
+Home surveillance system assistant, as a [Slack bot-user](https://api.slack.com/bot-users).  
+-- [unblinkingBot.com](http://www.unblinkingbot.com)  
 
-### Grocereport  
+### 🐈 Lila of the Day  
 
-[![Grocereport logo](img/grocereport_50x50.png)](http://www.Grocereport.com) &nbsp; [Grocereport](http://www.Grocereport.com) is a service for quantified groceries.  
+App for [Android](https://www.android.com/) that reminds you to value creative play, the outcome of which is all reality.  
+-- [LilaOfTheDay.com](http://www.LilaOfTheDay.com)  
 
-### Lila of the Day  
+### 📱 fragmentBoss  
 
-[![Lila of the Day logo](img/lilaoftheday_50x50.png)](http://www.LilaOfTheDay.com) &nbsp; [Lila of the Day](http://www.LilaOfTheDay.com) is a reminder to value creative play, the outcome of which is all reality.  
+[Android library module](https://developer.android.com/studio/projects/android-library.html) to increase [Fragment](https://developer.android.com/guide/components/fragments.html) versatility.  
+-- [github.com/nothingworksright/fragmentBoss/wiki](https://github.com/nothingworksright/fragmentBoss/wiki)  
 
-### fragmentBoss  
+### 📓 tmpNote  
 
-[fragmentBoss](https://github.com/nothingworksright/fragmentBoss/wiki) is an [Android library module](https://developer.android.com/studio/projects/android-library.html) to increase [Fragment](https://developer.android.com/guide/components/fragments.html) versatility.  
-
-### tmpNote  
-
-[tmpNote](http://tmpnote.com/) is a graphical text editor.  
+Another text editor.  
+-- [tmpNote.com/](http://tmpnote.com/)  
 
 ___
 
-## Recommended Tools and Services  
+## Show your support  
 
-Here are various tools and services that I can recommend.  
+Support these open source projects and motivate nothingworksright to continue development. Using [Beerpay.io](https://beerpay.io/nothingworksright) you can support a project, and make a wish for a new feature or issue fix.  
 
-### Git  
+[Click here to support a project](https://beerpay.io/nothingworksright).  
 
-[Git](https://git-scm.com/) is a distributed revision control system. Check out the [csswizardry git tips](https://github.com/csswizardry/csswizardry.github.com/issues/66) for some great ideas.  
-
-### GitHub  
-
-[GitHub.com](https://github.com/) provides online project hosting using [Git](https://git-scm.com/). The [@nothingworksright](https://github.com/nothingworksright) code repositories are [open-source](https://github.com/open-source) and available on GitHub. This website is hosted on GitHub using [GitHub Pages](https://pages.github.com/).  
+[![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/badge.svg?style=beer-square)](https://beerpay.io/nothingworksright/nothingworksright.github.io)  [![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/make-wish.svg?style=flat-square)](https://beerpay.io/nothingworksright/nothingworksright.github.io?focus=wish)  
 
 ___
 
 &copy; 2017 [__nothingworksright__](https://github.com/nothingworksright)  
+[View the source code repository that powers this website](https://github.com/nothingworksright/nothingworksright.github.io)  
