@@ -15,3 +15,8 @@ Support this project by [making a pledge via Patreon](https://www.Patreon.com/jm
 ## Badges  
 
 [![Code Climate](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io/badges/gpa.svg)](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io) [![Issue Count](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io/badges/issue_count.svg)](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io)  
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/badge.svg?style=beer-square)](https://beerpay.io/nothingworksright/nothingworksright.github.io)  [![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/make-wish.svg?style=flat-square)](https://beerpay.io/nothingworksright/nothingworksright.github.io?focus=wish)
