@@ -2,7 +2,8 @@
 
 of course  
 
-__nothingworksright__ is a software development organization that offers [FLOSS (Free-Libre Open Source Software) on __GitHub__](https://github.com/nothingworksright).  
+__nothingworksright__ is a software development organization that offers [Free-Libre Open Source Software](https://github.com/nothingworksright).  
+
 ___
 
 ## Projects  
