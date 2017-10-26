@@ -1,2 +1,5 @@
-# Set the default behavior, in case people don't have core.autocrlf set.
-* text eol=lf
+# https://www.git-scm.com/docs/gitattributes
+
+*       text eol=lf
+*.png   -text -diff
+*.ico   -text -diff
