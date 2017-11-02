@@ -16,4 +16,4 @@ Support these open source projects and motivate nothingworksright to continue de
 
 [Click here to support a project](https://beerpay.io/nothingworksright).  
 
-[![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/badge.svg?style=beer-square)](https://beerpay.io/nothingworksright/nothingworksright.github.io)  [![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/make-wish.svg?style=flat-square)](https://beerpay.io/nothingworksright/nothingworksright.github.io?focus=wish)  
+[![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/badge.svg?style=beer)](https://beerpay.io/nothingworksright/nothingworksright.github.io)  [![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/make-wish.svg?style=flat)](https://beerpay.io/nothingworksright/nothingworksright.github.io?focus=wish)  
