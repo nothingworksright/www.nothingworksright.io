@@ -1,8 +1,8 @@
 # ⛔️ nothingworksright  
 
-of course  
+> of course  
 
-__nothingworksright__ is a software development organization that offers [Free-Libre Open Source Software](https://github.com/nothingworksright).  
+__nothingworksright__ is a software development organization with [freely available source code](https://github.com/nothingworksright).  
 
 ___
 
