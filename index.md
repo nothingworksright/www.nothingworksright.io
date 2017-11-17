@@ -20,7 +20,7 @@ Recipe.Report is a system to help you know more about your food.
 > [electron app source](https://github.com/nothingworksright/recipereport_xplat)  
 > [website source](https://github.com/nothingworksright/recipereport_website)  
 
-### 🤖 unblinkingBot  
+### ಠ_ಠ unblinkingBot  
 
 unblinkingBot is a home surveillance system assistant, as a [Slack bot-user](https://api.slack.com/bot-users).  
 
