@@ -22,7 +22,7 @@ Recipe.Report is a system to help you know more about your food.
 
 ### ಠ_ಠ unblinkingBot  
 
-unblinkingBot is a home surveillance system assistant, as a [Slack bot-user](https://api.slack.com/bot-users).  
+unblinkingBot is a chat-bot surveillance-system assistant.  
 
 > [website](http://www.unblinkingbot.com)  
 > [source code](https://github.com/nothingworksright/unblinkingbot)  
