@@ -74,15 +74,5 @@ tmpNote is another text editor.
 
 ___
 
-## Show your support  
-
-Support these open source projects and motivate nothingworksright to continue development. Using [Beerpay.io](https://beerpay.io/nothingworksright) you can support a project, and make a wish for a new feature or issue fix.  
-
-[Click here to support a project](https://beerpay.io/nothingworksright).  
-
-[![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/badge.svg?style=beer)](https://beerpay.io/nothingworksright/nothingworksright.github.io)  [![Beerpay](https://beerpay.io/nothingworksright/nothingworksright.github.io/make-wish.svg?style=flat)](https://beerpay.io/nothingworksright/nothingworksright.github.io?focus=wish)  
-
-___
-
 &copy; 2017 [__nothingworksright__](https://github.com/nothingworksright)  
 [View the source code repository that powers this website](https://github.com/nothingworksright/nothingworksright.github.io)  
