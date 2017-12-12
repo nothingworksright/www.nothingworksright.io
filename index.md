@@ -25,8 +25,7 @@ Recipe.Report is a system to help you know more about your food.
 unblinkingBot is a home surveillance system assistant, as a [Slack bot-user](https://api.slack.com/bot-users).  
 
 > [website](http://www.unblinkingbot.com)  
-> [amd64 source](https://github.com/nothingworksright/unblinkingbot)  
-> [armv7hf source (Raspberry Pi)](https://github.com/nothingworksright/unblinkingbot_pi)  
+> [source code](https://github.com/nothingworksright/unblinkingbot)  
 > [website source](https://github.com/nothingworksright/unblinkingbot_website)  
 
 ### ⏱ trackerTimer  
