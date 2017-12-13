@@ -2,7 +2,7 @@
 
 Of course.  
 
-> __nothingworksright__ is a software development organization with [freely available source code](https://github.com/nothingworksright).  
+__nothingworksright__ is a software development organization with [freely available source code](https://github.com/nothingworksright).  
 
 ___
 
