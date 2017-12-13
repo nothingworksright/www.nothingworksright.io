@@ -1,4 +1,4 @@
-# ⛔️ nothingworksright  
+# `⛔️ nothingworksright`  
 
 Of course.  
 
