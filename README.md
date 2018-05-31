@@ -1,6 +1,6 @@
 # ⛔️ nothingworksright, the website  
 
-This is the source code repository for [nothingworksright.com](http://www.nothingworksright.com/).  
+This is the source code repository for [nothingworksright.io](https://www.nothingworksright.io/).  
 
 [![Code Climate](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io/badges/gpa.svg)](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io) [![Issue Count](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io/badges/issue_count.svg)](https://codeclimate.com/github/nothingworksright/nothingworksright.github.io)  
 
