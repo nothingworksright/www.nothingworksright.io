@@ -12,11 +12,10 @@ ___
 
 Recipe.Report generates useful reports based on recipes and reciepts.  
 
-> [website](http://www.recipe.report/)  
-> [web API source code](https://github.com/nothingworksright/recipereport_api)  
-> [web app source code](https://github.com/nothingworksright/recipereport_webapp)  
-> [electron app source code](https://github.com/nothingworksright/recipereport_xplat)  
-> [website source code](https://github.com/nothingworksright/recipereport_website)  
+> [Main website](http://www.recipe.report/)  
+> [API server code repository](https://github.com/nothingworksright/api.recipe.report)  
+> [Web app code repository](https://github.com/nothingworksright/my.recipe.report)  
+> [Website code repository](https://github.com/nothingworksright/www.recipe.report)  
 
 ### ಠ_ಠ unblinkingBot  
 
