@@ -1,4 +1,4 @@
-# <img src="img/favicon.svg" height="32" width="32" /> nothingworksright, the website  
+# <img src="img/favicon.svg" height="32" width="32" /> www.nothingworksright.io  
 
 This is the source code repository for [nothingworksright.io](https://www.nothingworksright.io/).  
 
