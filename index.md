@@ -1,4 +1,4 @@
-# ⛔️ nothingworksright  
+# <img src="img/favicon.svg" height="32" width="32" /> nothingworksright  
 
 Of course.  
 
