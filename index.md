@@ -10,29 +10,19 @@ ___
 
 ### 🗃 Recipe.Report  
 
-Recipe.Report generates useful reports based on recipes and reciepts.  
+[Recipe.Report](https://www.recipe.report/) generates useful reports based on recipes and reciepts.  
 
-> [Main website](http://www.recipe.report/)  
-> [API server code repository](https://github.com/nothingworksright/api.recipe.report)  
-> [Web app code repository](https://github.com/nothingworksright/my.recipe.report)  
-> [Website code repository](https://github.com/nothingworksright/www.recipe.report)  
+### 🗎 TrappyKeepy  
 
-### ಠ_ಠ unblinkingBot  
+[TrappyKeepy](https://github.com/nothingworksright/trappykeepy) is a simple document storage Web API.  
 
-unblinkingBot is a chat-bot surveillance-system assistant.  
+### 🤖 unblinkingBot  
 
-> [website](http://www.unblinkingbot.com)  
-> [application source code](https://github.com/nothingworksright/unblinkingbot)  
-> [website source code](https://github.com/nothingworksright/unblinkingbot_website)  
+[unblinkingBot](https://www.unblinkingbot.com/) is a chat-bot surveillance-system assistant.  
 
 ### ⏱ trackerTimer  
 
-trackerTimer provides network analysis of website tracking elements.  
-
-> [web app](https://trackertimerwebapp.herokuapp.com/)  
-> [web app source code](https://github.com/nothingworksright/trackertimer_webapp)  
-> [web API](https://trackertimerapi.herokuapp.com/)  
-> [web API source code](https://github.com/nothingworksright/trackertimer_api)  
+trackerTimer provides network analysis of website tracking elements, with an [API server](https://github.com/nothingworksright/trackertimer_api) and a [web app](https://github.com/nothingworksright/trackertimer_webapp).  
 
 ### 💬 Bremertown  
 
@@ -43,30 +33,15 @@ Bremertown is a super simple chatroom, with no signup process and no login.
 
 ### 🐈 Lila of the Day  
 
-Lila of the Day is an app for [Android](https://www.android.com/) that reminds you to value creative play, the outcome of which is all reality.  
-
-> [website](http://www.lilaoftheday.com)  
-> [mobile app source code](https://github.com/nothingworksright/lilaoftheday_android)  
-> [website source code](https://github.com/nothingworksright/lilaoftheday_website)
+[Lila of the Day](https://github.com/nothingworksright/lilaoftheday_android) is an app for Android that reminds you to value creative play, the outcome of which is all reality.  
 
 ### 📱 fragmentBoss  
 
-fragmentBoss is an [Android library module](https://developer.android.com/studio/projects/android-library.html) to increase [Fragment](https://developer.android.com/guide/components/fragments.html) versatility.  
-
-> [wiki](https://github.com/nothingworksright/fragmentboss/wiki)  
-> [documentation](http://nothingworksright.com/fragmentBoss/)  
-> [JitPack.io](https://jitpack.io/#com.nothingworksright/fragmentBoss)  
-> [releases](https://github.com/nothingworksright/fragmentBoss/releases/latest)  
-> [source code](https://github.com/nothingworksright/fragmentBoss)  
+[fragmentBoss](https://github.com/nothingworksright/fragmentBoss) is an Android library module to increase Fragment versatility.  
 
 ### 📓 tmpNote  
 
-tmpNote is another text editor.  
-
-> [website](http://tmpnote.com/)  
-> [releases](https://github.com/nothingworksright/tmpNote/releases/latest)  
-> [source code](https://github.com/nothingworksright/tmpNote)  
-> [website source code](https://github.com/nothingworksright/tmpnote_website)  
+[tmpNote](https://tmpnote.com/) is another text editor.  
 
 ___
 
