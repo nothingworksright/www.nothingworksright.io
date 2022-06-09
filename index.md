@@ -42,5 +42,5 @@ trackerTimer provides network analysis of website tracking elements, with an [AP
 
 ___
 
-&copy; 2017 [__nothingworksright__](https://github.com/nothingworksright)  
+&copy; 2022 [__nothingworksright__](https://github.com/nothingworksright)  
 [View the source code repository that powers this website](https://github.com/nothingworksright/nothingworksright.github.io)  
