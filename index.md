@@ -24,12 +24,9 @@ ___
 
 trackerTimer provides network analysis of website tracking elements, with an [API server](https://github.com/nothingworksright/trackertimer_api) and a [web app](https://github.com/nothingworksright/trackertimer_webapp).  
 
-### 💬 Bremertown  
+### 💬 Forgettable  
 
-Bremertown is a super simple chatroom, with no signup process and no login.  
-
-> [web chatroom](http://www.bremertown.com/)  
-> [web chatroom source code](https://github.com/nothingworksright/bremertown_chatroom)  
+[Forgettable](https://github.com/nothingworksright/forgettable) is a super simple chatroom, with no signup process and no login, that you can [try right now](https://forgettable-chat.herokuapp.com/).  
 
 ### 🐈 Lila of the Day  
 
