@@ -12,10 +12,6 @@ ___
 
 [Recipe.Report](https://www.recipe.report/) generates useful reports based on recipes and reciepts.  
 
-### 🗎 TrappyKeepy  
-
-[TrappyKeepy](https://github.com/nothingworksright/trappykeepy) is a simple document storage Web API.  
-
 ### 🤖 unblinkingBot  
 
 [unblinkingBot](https://www.unblinkingbot.com/) is a chat-bot surveillance-system assistant.  
