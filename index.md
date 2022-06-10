@@ -12,10 +12,6 @@ ___
 
 [Recipe.Report](https://www.recipe.report/) generates useful reports based on recipes and reciepts.  
 
-### 🤖 unblinkingBot  
-
-[unblinkingBot](https://www.unblinkingbot.com/) is a chat-bot surveillance-system assistant.  
-
 ### ⏱ trackerTimer  
 
 trackerTimer provides network analysis of website tracking elements, with an [API server](https://github.com/nothingworksright/trackertimer_api) and a [web app](https://github.com/nothingworksright/trackertimer_webapp).  
