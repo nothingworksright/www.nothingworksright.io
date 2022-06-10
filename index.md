@@ -16,14 +16,6 @@ ___
 
 trackerTimer provides network analysis of website tracking elements, with an [API server](https://github.com/nothingworksright/trackertimer_api) and a [web app](https://github.com/nothingworksright/trackertimer_webapp).  
 
-### 🐈 Lila of the Day  
-
-[Lila of the Day](https://github.com/nothingworksright/lilaoftheday_android) is an app for Android that reminds you to value creative play, the outcome of which is all reality.  
-
-### 📱 fragmentBoss  
-
-[fragmentBoss](https://github.com/nothingworksright/fragmentBoss) is an Android library module to increase Fragment versatility.  
-
 ### 📓 tmpNote  
 
 [tmpNote](https://tmpnote.com/) is another text editor.  
