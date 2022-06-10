@@ -16,10 +16,6 @@ ___
 
 trackerTimer provides network analysis of website tracking elements, with an [API server](https://github.com/nothingworksright/trackertimer_api) and a [web app](https://github.com/nothingworksright/trackertimer_webapp).  
 
-### 📓 tmpNote  
-
-[tmpNote](https://tmpnote.com/) is another text editor.  
-
 ___
 
 &copy; 2022 [__nothingworksright__](https://github.com/nothingworksright)  
